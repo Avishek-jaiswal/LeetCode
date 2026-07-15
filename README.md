@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0037-sudoku-solver](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0037-sudoku-solver) |
 ## String
 |  |
 | ------- |
@@ -13,4 +14,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
