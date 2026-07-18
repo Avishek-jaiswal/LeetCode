@@ -36,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3249-count-the-number-of-good-nodes](https://github.com/Avishek-jaiswal/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0062-unique-paths) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
