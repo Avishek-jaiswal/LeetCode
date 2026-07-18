@@ -26,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0037-sudoku-solver) |
+## Tree
+|  |
+| ------- |
+| [3249-count-the-number-of-good-nodes](https://github.com/Avishek-jaiswal/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3249-count-the-number-of-good-nodes](https://github.com/Avishek-jaiswal/LeetCode/tree/master/3249-count-the-number-of-good-nodes) |
 <!---LeetCode Topics End-->
