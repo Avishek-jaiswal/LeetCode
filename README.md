@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0051-n-queens) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Avishek-jaiswal/LeetCode/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
